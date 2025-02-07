@@ -21,6 +21,6 @@
 "top_k=0.1, top_k_sampling_prob=0.7, high_freq_better=True",X,,,
 ,,,,
 "top_k=0.1, top_k_sampling_prob=0.9, high_freq_better=False",,X,,
-"top_k=0.1, top_k_sampling_prob=0.7, high_freq_better=False",X,,,
+"top_k=0.1, top_k_sampling_prob=0.7, high_freq_better=False",,,33350,Μπάρκας
 
 
