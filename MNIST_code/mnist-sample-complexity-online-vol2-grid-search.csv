@@ -1,12 +1,12 @@
 ﻿"Τιμές υπερπαραμέτρων (καθαρά ενδεικτικές, βάλε ο,τι θέλεις)",Δεν το έτρεξε κανείς,Τρέχει από κάποιον τώρα,"Έτρεξε, steps για 0.9 acc:",Έτρεξε από
-"χωρίς καν grokfast",,,32683,Μπάρκας
-"σκέτο grokfast",,,31349,Μπάρκας
+"χωρίς καν grokfast",Χ,,,
+"σκέτο grokfast",Χ,,,
 ,,,,
 "top_k=0.3, top_k_sampling_prob=0.9, high_freq_better=True",X,,,
 "top_k=0.2, top_k_sampling_prob=0.9, high_freq_better=True",Χ,,,
 "top_k=0.4, top_k_sampling_prob=0.9, high_freq_better=True",Χ,,,
 "top_k=0.5, top_k_sampling_prob=0.9, high_freq_better=True",Χ,,,
-"top_k=0.1, top_k_sampling_prob=0.9, high_freq_better=True",,,37352,Μπάρκας
+"top_k=0.1, top_k_sampling_prob=0.9, high_freq_better=True",Χ,,,
 ,,,,
 "top_k=0.3, top_k_sampling_prob=0.8, high_freq_better=True",Χ,,,
 "top_k=0.2, top_k_sampling_prob=0.8, high_freq_better=True",Χ,,,
@@ -18,9 +18,9 @@
 "top_k=0.2, top_k_sampling_prob=0.7, high_freq_better=True",Χ,,,
 "top_k=0.4, top_k_sampling_prob=0.7, high_freq_better=True",Χ,,,
 "top_k=0.5, top_k_sampling_prob=0.7, high_freq_better=True",Χ,,,
-"top_k=0.1, top_k_sampling_prob=0.7, high_freq_better=True",,,36018,Μπάρκας
+"top_k=0.1, top_k_sampling_prob=0.7, high_freq_better=True",Χ,,,
 ,,,,
-"top_k=0.1, top_k_sampling_prob=0.9, high_freq_better=False",,,32683,Μπάρκας
-"top_k=0.1, top_k_sampling_prob=0.7, high_freq_better=False",,,31349,Μπάρκας
+"top_k=0.1, top_k_sampling_prob=0.9, high_freq_better=False",Χ,,,
+"top_k=0.1, top_k_sampling_prob=0.7, high_freq_better=False",Χ,,,
 
 
